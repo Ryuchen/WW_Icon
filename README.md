@@ -1,5 +1,3 @@
 # WW Icon
 
-> Game: 1.4
-
-> Patch: 1.4 Beta
+> Game: 2.0
